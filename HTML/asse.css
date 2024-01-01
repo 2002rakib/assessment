@@ -1,0 +1,80 @@
+.main {
+    background-color: aqua;
+   
+    width: 100%;
+}
+
+h3 {
+    padding: 10px;
+}
+
+/* ---------------------------------------------------firt finish---------------------------------------------- */
+.main1 {
+    display: flex;
+    flex: wrap;
+    background-color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.m1 {
+    width: 20%;
+}
+
+.m2 {
+    margin-top: 40px;
+    width: 75%;
+    margin-left: 300px;
+}
+
+.a1 {
+    color: red;
+    text-decoration: none;
+}
+
+.a2 {
+    color: aqua;
+    text-decoration: none;
+}
+
+.loc {
+    width: 10%;
+    color: red;
+    margin-top: 55px;
+    margin-left: 10px;
+}
+
+/* ************************************************************second finish************************* */
+.main3 {
+    display: flex;
+    flex: wrap;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+textarea {
+    width: 635px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.btnn {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+/* form input[type="text"]{
+    text-transform: lowercase;
+} */
+
+
